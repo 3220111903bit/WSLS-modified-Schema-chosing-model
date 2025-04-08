@@ -1,11 +1,12 @@
-# WSLS-modified-Schema-chosing-model
-miniproject1 for CMML
+# WSLS-Modified-Schema-Choosing-Model  
+Mini Project 1 for CMML  
 
-Pull the all the files down to laptop.
+## Overview  
+This project simulates a schema selection model based on a modified Win-Stay-Lose-Shift (WSLS) mechanism.
 
-# The mainfunc.R serves as the main function (runner) to run all the simulation. 
+## Instructions  
 
-# "Source()" the targeted modified model to run those models.
-
-# File "data" provide the intial confidence of the schema
-
+1. **Download all files** to your local machine.  
+2. **`mainfunc.R`** is the main script used to run simulations.  
+3. Use `source()` to load the desired model file before running simulations.  
+4. The **`data/`** folder contains the initial schema confidence values used in the model.
